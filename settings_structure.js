@@ -5,13 +5,13 @@ module.exports = [
         "type": "bool"
     },
     {
-        "key": "GQuest",
-        "name": "Guild Quest",
+        "key": "VLog",
+        "name": "Vanguard Quest Logger",
         "type": "bool"
     },
     {
-        "key": "GQuestLog",
-        "name": "Guild Quest Logger",
+        "key": "GQuest",
+        "name": "Guild Quest",
         "type": "bool"
     },
     {
