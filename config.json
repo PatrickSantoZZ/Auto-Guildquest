@@ -1,12 +1,12 @@
 {
-    "version": 1,
-    "data": {
+		"enabled": true,
         "Vanguard": true,
         "GQuest": true,
         "VLog": true,
         "GQuestLog": false,
         "Guardian": true,
         "Daily": true,
+        "CLI": true,
         "battleground": [
             102,
             103,
@@ -18,5 +18,4 @@
             118,
             119
         ]
-    }
 }
